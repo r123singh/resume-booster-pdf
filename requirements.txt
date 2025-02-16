@@ -1,0 +1,6 @@
+streamlit
+openai
+markdown2
+weasyprint
+pdfkit
+pdfplumber
