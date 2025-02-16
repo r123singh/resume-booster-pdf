@@ -1,6 +1,6 @@
-# Resume Optimizer
+# Resume Booster
 
-**Resume Optimizer** is a web-based application that intelligently adapts your resume to match specific job descriptions. The frontend is developed using **Streamlit**, while the backend processing is powered by **OpenAI models**. With Resume Optimizer, you can enhance your job application process by tailoring your resume to specific job requirements, improving your chances of success.
+**Resume Booster** is a web-based application that intelligently adapts your resume to match specific job descriptions. The frontend is developed using **Streamlit**, while the backend processing is powered by **OpenAI models**. With Resume Optimizer, you can enhance your job application process by tailoring your resume to specific job requirements, improving your chances of success.
 
 ## Features
 
